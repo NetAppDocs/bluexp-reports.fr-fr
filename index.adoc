@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 'Lorsque vous préparez le déplacement, la migration ou le clonage des données du système de fichiers, vous devez d"abord déterminer ce dont vous disposez. Grâce au service de rapports de migration BlueXP, vous pouvez identifier rapidement le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques, la profondeur et l"étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et bien plus encore dans votre paysage de stockage. ' 
+---
+= Rapports de migration BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

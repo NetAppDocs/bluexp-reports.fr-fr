@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: use/report-overview.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 'Grâce au service de rapports de migration BlueXP, vous pouvez identifier rapidement le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques, la profondeur et l"étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et bien plus encore dans votre paysage de stockage.' 
+---
+= Présentation des rapports
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Grâce au service de rapports de migration BlueXP, vous pouvez identifier rapidement le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques, la profondeur et l'étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et bien plus encore dans votre paysage de stockage.
+
+Le service de rapports de migration BlueXP affiche les données par volume.
+
+Les rapports de migration BlueXP vous permettent d'atteindre les objectifs suivants :
+
+* link:../use/report-create.html["Créer un rapport"]
+* link:../use/report-notifications.html["Activez les notifications"]
+* link:../use/report-delete.html["Supprimer un rapport"]
+

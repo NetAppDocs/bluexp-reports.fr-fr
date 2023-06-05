@@ -1,0 +1,66 @@
+---
+sidebar: sidebar 
+permalink: use/report-sample.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Examinez un exemple de rapport et découvrez les données affichées. 
+---
+= Consultez un exemple de rapport : le rapport volumes
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Consultez un exemple de rapport volumes pour connaître les données affichées.
+
+.Étapes
+. Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* > *migration Reports*.
+. Pour afficher le rapport, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher le rapport*.
++
+image:sample-volumes-top.png["Cette image illustre la partie supérieure d'un exemple de rapport volumes"]
+
++
+image:sample-volumes-middle.png["Cette image montre le milieu d'un exemple de rapport volumes"]
+
++
+image:sample-volumes-middle-b.png["Cette image montre la section suivante au milieu d'un exemple de rapport volumes"]
+
+. Pour savoir ce que signifient les colonnes, passez le curseur sur certaines informations.
+. Pour afficher le rapport au format CSV, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher PDF*.
+. Afficher les informations du rapport :
++
+** *Maximum* > *Total Depth* : le plus grand nombre de sous-répertoires imbriqués dans un répertoire du volume. Dans l'exemple répertoire/sous-répertoire/subdirectory2, la profondeur est 2.
+** *Maximum* > *Total maximum Width* : le plus grand nombre d'éléments dans les répertoires du volume. Un élément est un fichier, un sous-répertoire, un lien symbolique ou un lien physique.
+** *Maximum* > *chemin le plus long* : le chemin le plus long du sous-répertoire plus le nom du fichier dans le volume.
+** *Maximum* > *répertoires* : nombre de répertoires dans le plus grand répertoire.
+** *Maximum* > *fichiers* : nombre de fichiers dans le répertoire le plus grand. Il peut y avoir un autre répertoire avec plus de fichiers, mais ce n'est pas le plus grand répertoire de l'arborescence.
+** *Temps d'accès* : dernières fois où les fichiers ont été consultés.
+** *Modifier l'heure* : dernière fois que les métadonnées du fichier, par exemple, les autorisations, ont été consultées.
+** *Modifier l'heure* : dernières fois que le contenu des fichiers a été modifié.
+** *Les 5 principales raisons d'échec* : les 5 principales raisons d'erreur trouvées lors de l'analyse du volume. Par exemple, un rapport peut contenir des erreurs liées à des autorisations d'accès inexistantes ou incorrectes ou aux fichiers manquants. Ce type d'erreur peut avoir un impact sur l'analyse de l'ensemble des fichiers et des répertoires. Après avoir vu la liste des erreurs, vous pouvez résoudre les problèmes et exécuter à nouveau le rapport.
+** *Top 5 répertoires et fichiers*: Les répertoires ayant le plus 5 grand nombre de répertoires ou les plus grandes tailles de fichiers dans le volume.
+
+
+. Pour revenir au tableau de bord des rapports, sélectionnez *Rapports* dans le fil d'Ariane.
+
+
+
+
+=== Afficher les informations de distribution des rapports
+
+Il se peut que vous ayez besoin de savoir comment les données ont changé d'une date de rapport à une autre. Pour ce faire, utilisez les graphiques de distribution des rapports.
+
+Les informations de distribution des rapports sont disponibles uniquement sur les rapports terminés et uniquement si au moins deux rapports sont terminés.
+
+.Étapes
+. Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* > *migration Reports*.
+. Sélectionnez un rapport.
+. Dans le menu actions à droite, sélectionnez *Afficher la distribution des rapports*.
+. Afficher la distribution des rapports :
++
+** *Distribution dans le temps (taille totale)* : taille du volume à différentes dates.
+** *Distribution dans le temps (nombre total d'éléments)* : le nombre de fichiers, de dossiers, de liens et de répertoires à des dates différentes.
+
+
+

@@ -1,0 +1,39 @@
+---
+indexpage:
+  lead: Lorsque vous préparez le déplacement, la migration ou le clonage des données
+    du système de fichiers, vous devez d'abord déterminer ce dont vous disposez. Grâce
+    au service de rapports de migration BlueXP, vous pouvez identifier rapidement
+    le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques,
+    la profondeur et l'étendue des arborescences des systèmes de fichiers, les fichiers
+    les plus volumineux et bien plus encore dans votre paysage de stockage.
+  tiles:
+  - title: Commencez
+    links:
+    - title: Découvrez les rapports sur la migration BlueXP
+      url: "/get-started/intro.html"
+    - title: Nouveautés des rapports sur la migration BlueXP
+      url: "/release-notes/whats-new.html"
+    - title: Démarrage rapide
+      url: "/get-started/quick-start.html"
+    - title: Prérequis
+      url: "/get-started/prerequisites.html"
+    - title: Connectez-vous aux rapports de migration BlueXP
+      url: "/get-started/login.html"
+    - title: FAQ
+      url: "/get-started/faq.html"
+  - title: Utilisez les rapports de migration BlueXP
+    links:
+    - title: Présentation des rapports
+      url: "/use/report-overview.html"
+    - title: Créer un rapport
+      url: "/use/report-create.html"
+    - title: Afficher un exemple de rapport
+      url: "/use/report-sample.html"
+    - title: Supprimer un rapport
+      url: "/use/report-delete.html"
+  - title: Blogs et communauté
+    links:
+    - title: Communauté NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Webinaires sur le cloud
+      url: https://bluexp.netapp.com/events

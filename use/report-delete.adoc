@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 'Vous pouvez supprimer un rapport s"il contient une erreur que vous avez corrigée ou si vous n"avez plus besoin de ce rapport.' 
+---
+= Supprimer un rapport
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Vous pouvez supprimer un rapport s'il contient une erreur que vous avez corrigée ou si vous n'avez plus besoin de ce rapport. Vous pouvez supprimer une ou plusieurs instances d'un rapport.
+
+.Étapes
+. Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* > *migration Reports*.
+. Dans le tableau de bord des rapports, sélectionnez un rapport.
+. Sur la ligne du rapport, sélectionnez *actions* … Et sélectionnez *Supprimer le rapport*.
+. Si plusieurs instances du rapport existent, sélectionnez celles que vous souhaitez supprimer et sélectionnez *Supprimer*.
++
+image:report-delete-multiple.png["Cette image montre la page Supprimer qui vous permet de supprimer plusieurs rapports"]
+
+. Sélectionnez *Supprimer* pour confirmer la suppression.
+

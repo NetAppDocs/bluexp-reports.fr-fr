@@ -1,0 +1,14 @@
+---
+section: use
+title: Utilisez les rapports de migration BlueXP
+entries:
+- title: Avantages des rapports de migration BlueXP
+  url: "/use/report-overview.html"
+- title: Créer un rapport
+  url: "/use/report-create.html"
+- title: Afficher un exemple de rapport volumes
+  url: "/use/report-sample.html"
+- title: Activer les notifications de rapport
+  url: "/use/report-notifications.html"
+- title: Supprimer un rapport
+  url: "/use/report-delete.html"

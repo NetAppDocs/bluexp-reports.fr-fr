@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with BlueXP migration reports, reports quick start, data protection, storage 
+summary: Démarrez en quelques étapes avec le service de rapports de migration NetApp BlueXP. 
+---
+= Démarrage rapide des rapports de migration BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Voici une présentation des étapes nécessaires pour démarrer avec les rapports de migration BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Passer en revue les prérequis
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["Assurez-vous que votre environnement répond à ces exigences"^].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Trois"] Et la suite ?
+[role="quick-margin-para"]
+Voici ce que vous pourriez faire ensuite.
+
+[role="quick-margin-list"]
+* link:../use/report-create.html["Créer un rapport"^].
+* link:../use/report-sample.html["Afficher un exemple de rapport"^].
+* link:../use/report-delete.html["Supprimer un rapport"^].
+
