@@ -18,6 +18,6 @@ Le service de rapports de migration BlueXP est prérequis :
 
 * Accès à la LIF de données dans Cloud Volumes ONTAP Azure NetApp Files, Amazon FSX pour NetApp ONTAP ou les environnements de travail sur site
 * Utilisation de ONTAP 9.7 ou version ultérieure
-* Le connecteur BlueXP configuré dans NetApp BlueXP avec la LIF de gestion. Consultez la documentation BlueXP pour https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Configurez le connecteur BlueXP"].
+* Le connecteur BlueXP configuré dans NetApp BlueXP avec la LIF de gestion du cluster. La LIF de cluster management est une interface réseau virtuelle qui vous permet d'effectuer des opérations de cluster management. Consultez la documentation BlueXP pour https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Configurez le connecteur BlueXP"].
 * Standard https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Exigences de BlueXP"]
 
