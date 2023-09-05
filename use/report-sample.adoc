@@ -16,9 +16,8 @@ Consultez un exemple de rapport volumes pour connaître les données affichées.
 
 .Étapes
 . Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* > *migration Reports*.
-. Pour afficher le rapport, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher le rapport*.
 +
-image:sample-volumes-top.png["Cette image illustre la partie supérieure d'un exemple de rapport volumes"]
+image:report-sample-volumes-top-total-items.png["Cette image montre le haut d'un exemple de rapport volumes et l'onglet Total des éléments"]
 
 +
 image:sample-volumes-middle.png["Cette image montre le milieu d'un exemple de rapport volumes"]
@@ -27,7 +26,17 @@ image:sample-volumes-middle.png["Cette image montre le milieu d'un exemple de ra
 image:sample-volumes-middle-b.png["Cette image montre la section suivante au milieu d'un exemple de rapport volumes"]
 
 . Pour savoir ce que signifient les colonnes, passez le curseur sur certaines informations.
-. Pour afficher le rapport au format CSV, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher PDF*.
+. Choisissez l'une des options suivantes :
++
+** Pour afficher et télécharger un fichier PDF du rapport, sélectionnez *actions* ... Et sélectionnez *Télécharger le rapport*.
+** Pour générer une autre instance du même rapport, sélectionnez la ligne du rapport et, à droite, sélectionnez *Ajouter un rapport*.
+** Pour afficher des informations sur tous les éléments, choisissez l'onglet *Total des éléments*.
+** Pour afficher uniquement les informations sur la capacité allouée, choisissez l'onglet *capacité allouée*.
++
+image:report-sample-volumes-top-capacity.png["Cette image montre la partie supérieure d'un exemple de rapport volumes et l'onglet capacité allouée"]
+
+
+
 . Afficher les informations du rapport :
 +
 ** *Maximum* > *Total Depth* : le plus grand nombre de sous-répertoires imbriqués dans un répertoire du volume. Dans l'exemple répertoire/sous-répertoire/subdirectory2, la profondeur est 2.
@@ -52,6 +61,8 @@ image:sample-volumes-middle-b.png["Cette image montre la section suivante au mil
 Il se peut que vous ayez besoin de savoir comment les données ont changé d'une date de rapport à une autre. Pour ce faire, utilisez les graphiques de distribution des rapports.
 
 Les informations de distribution des rapports sont disponibles uniquement sur les rapports terminés et uniquement si au moins deux rapports sont terminés.
+
+image:report-sample-volumes-distribution.png["Cette image illustre la partie supérieure d'un exemple de rapport Volume distribution"]
 
 .Étapes
 . Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* > *migration Reports*.

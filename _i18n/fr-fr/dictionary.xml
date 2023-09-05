@@ -19,14 +19,11 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Étapes</block>
   <block id="61c72c04996e2663abc77ce427e2615c" category="list-text">Dans le menu de navigation gauche de BlueXP, sélectionnez *Storage* &gt; *migration Reports*.</block>
   <block id="9c10ad779f44c1e68914d4e54b1d95fc" category="list-text">Pour afficher le rapport, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher le rapport*.</block>
-  <block id="d92e9fbbaa132a49a57032058333a5dc" category="inline-image-macro">Cette image illustre la partie supérieure d'un exemple de rapport volumes</block>
-  <block id="5823aec417ccd56feda26c5a9f121d7d" category="paragraph"><block ref="5823aec417ccd56feda26c5a9f121d7d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c06108e68e17c6b2b0d54f0677843ee1" category="inline-image-macro">Cette image montre le milieu d'un exemple de rapport volumes</block>
   <block id="5d4ea628733fb39c199fc8791dbe5c7a" category="paragraph"><block ref="5d4ea628733fb39c199fc8791dbe5c7a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ef0e06ae55d94ca2dfb4babdc5661de7" category="inline-image-macro">Cette image montre la section suivante au milieu d'un exemple de rapport volumes</block>
   <block id="f52ca9d2a2d76da39681340edb3cf152" category="paragraph"><block ref="f52ca9d2a2d76da39681340edb3cf152" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2ca60d6a14b06b4b3528c2b47858048" category="list-text">Pour savoir ce que signifient les colonnes, passez le curseur sur certaines informations.</block>
-  <block id="607e5b212f9088499882214504c86bc4" category="list-text">Pour afficher le rapport au format CSV, sélectionnez *actions* ... Sur la droite et sélectionnez *Afficher PDF*.</block>
   <block id="20c30cc539c668262bb407e81759802f" category="list-text">Afficher les informations du rapport :</block>
   <block id="ca72ba0eeff5584e52bd275c2d9df48f" category="list-text">*Maximum* &gt; *Total Depth* : le plus grand nombre de sous-répertoires imbriqués dans un répertoire du volume. Dans l'exemple répertoire/sous-répertoire/subdirectory2, la profondeur est 2.</block>
   <block id="a7c61ed1c889220336a36635748931f9" category="list-text">*Maximum* &gt; *Total maximum Width* : le plus grand nombre d'éléments dans les répertoires du volume. Un élément est un fichier, un sous-répertoire, un lien symbolique ou un lien physique.</block>
@@ -78,7 +75,6 @@
   <block id="22f65ce1309e30f5306c33ecbe960be4" category="list-text">Pour le niveau de notification, sélectionnez *Info*.</block>
   <block id="ab99a4f8307b481f7e7bad3a73fc18c7" category="inline-image-macro">Cette image montre le paramètre d'option de notification pour Info</block>
   <block id="e768fe59b26e945acfb206c5ddc8a846" category="paragraph"><block ref="e768fe59b26e945acfb206c5ddc8a846" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="8536bae122e5715a2a3abe6231b419a7" category="paragraph">Vous pouvez créer un rapport sur les volumes qui indique le nombre de fichiers, de fichiers dans des répertoires, de liens symboliques, de liens physiques, de tailles de fichiers les plus importantes, et bien plus encore.</block>
   <block id="5eabcb5b1d6fdf7108bd8640e06526aa" category="paragraph">Chaque fois que vous créez un rapport, le service de rapports de migration BlueXP analyse le chemin et compile les données. En utilisant la même définition de rapport, vous pouvez avoir plusieurs instances de ce rapport.</block>
   <block id="6d767170892306b24b417164925a8bb5" category="paragraph">Le service de rapports de migration BlueXP affiche les données par volume.</block>
   <block id="0648a4f3563a96fcf7d496cf28420c77" category="paragraph">Vous ne pouvez générer qu'un seul rapport à la fois.</block>
@@ -95,7 +91,6 @@
   <block id="067462e998f421ea8fb1c1da96a65554" category="list-text">Sélectionnez le volume.</block>
   <block id="3b0a91a5ea7b77db2fb83f740b7d1303" category="list-text">Sélectionnez *Créer un rapport*.</block>
   <block id="867f81ce9171f10118310484e40a2cd5" category="paragraph">Le service de rapports de migration BlueXP génère le rapport et le répertorie dans la liste des rapports.</block>
-  <block id="8e43c284f0d373f4809b4c3f02b72f63" category="list-text">Pour télécharger un fichier PDF du rapport, sélectionnez *actions* ... Et sélectionnez *Télécharger le rapport*.</block>
   <block id="d6fcb2dbf04ea8d168f189b22905dc57" category="list-text">Pour générer une autre instance du même rapport, sélectionnez la ligne du rapport et, à droite, sélectionnez *Ajouter un rapport*.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Les limitations connues identifient les plates-formes, les périphériques ou les fonctions qui ne sont pas pris en charge par cette version du service ou qui ne fonctionnent pas correctement avec celui-ci.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limites</block>
@@ -358,4 +353,20 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="d687b97df8e082fb1a95e853c70aa1c2" category="section-title">03 septembre 2023</block>
+  <block id="a0c145fadd8b464775a61d2f1a2e0474" category="paragraph">Le service mis à jour de rapports de migration BlueXP fournit des mises à jour des données de rapport. Les rapports incluent désormais la capacité allouée.</block>
+  <block id="c8ee6676f257ec9e4051a81e20e2b86b" category="list-text">Export policy configurée dans ONTAP. Une export policy définit les règles d'accès au volume.</block>
+  <block id="1e383dea923bfb90b25d365ea346d669" category="inline-image-macro">Cette image montre le haut d'un exemple de rapport volumes et l'onglet Total des éléments</block>
+  <block id="9f14d85a083361c2913f91d6ae8e5d56" category="paragraph"><block ref="9f14d85a083361c2913f91d6ae8e5d56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="970f8d2fea058058056d787fd2c64959" category="list-text">Choisissez l'une des options suivantes :</block>
+  <block id="c6f9088e2293b9cbc7e61e8735ce4cd8" category="list-text">Pour afficher et télécharger un fichier PDF du rapport, sélectionnez *actions* ... Et sélectionnez *Télécharger le rapport*.</block>
+  <block id="0ddcb2a8f5b6ab59686b7d5eda06c881" category="list-text">Pour afficher des informations sur tous les éléments, choisissez l'onglet *Total des éléments*.</block>
+  <block id="5cd1136e0d113841c27f47eed7fef071" category="list-text">Pour afficher uniquement les informations sur la capacité allouée, choisissez l'onglet *capacité allouée*.</block>
+  <block id="7cd81b2badb8a49443232eba983ab827" category="inline-image-macro">Cette image montre la partie supérieure d'un exemple de rapport volumes et l'onglet capacité allouée</block>
+  <block id="306f6523074f5531d21c8da5489a0b28" category="paragraph"><block ref="306f6523074f5531d21c8da5489a0b28" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d935fc1afac8a92ca974555060580961" category="inline-image-macro">Cette image illustre la partie supérieure d'un exemple de rapport Volume distribution</block>
+  <block id="1cf0750149f1004c44ae5c6d08324ebc" category="paragraph"><block ref="1cf0750149f1004c44ae5c6d08324ebc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2eda031e57f814ce3091bfeaee3b48a2" category="summary">Le service de rapports de migration BlueXP vous permet de créer un rapport sur les volumes qui affiche le nombre de fichiers, de fichiers dans des répertoires, de liens symboliques, de liens physiques et de tailles de fichiers les plus importantes, la capacité allouée, et bien plus encore.</block>
+  <block id="e89e178dc7f2cf739c88943d98757406" category="paragraph">Vous pouvez créer un rapport sur les volumes qui indique le nombre de fichiers, de fichiers dans des répertoires, de liens symboliques, de liens physiques, de tailles de fichiers les plus importantes, la capacité allouée, et bien plus encore.</block>
+  <block id="97f84448ed8b3b07f10a92cfa1a38076" category="list-text">Pour afficher le rapport de distribution, dans le menu actions à droite, sélectionnez *Afficher la distribution des rapports*.</block>
 </blocks>

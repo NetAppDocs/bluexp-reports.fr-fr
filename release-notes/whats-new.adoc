@@ -16,6 +16,12 @@ Découvrez les nouveautés des rapports sur la migration BlueXP.
 
 
 
+== 03 septembre 2023
+
+Le service mis à jour de rapports de migration BlueXP fournit des mises à jour des données de rapport. Les rapports incluent désormais la capacité allouée.
+
+
+
 == 02 juin 2023
 
 Le nouveau service de rapports de migration BlueXP vous permet d'identifier rapidement le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques, la profondeur et l'étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et plus encore dans votre environnement de stockage.
