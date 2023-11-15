@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: 'Le nouveau service de rapports de migration BlueXP vous permet d"identifier rapidement le nombre de fichiers, de répertoires, de liens symboliques, de liens physiques, la profondeur et l"étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et plus encore dans votre environnement de stockage.' 
+summary: Découvrez les nouveautés des rapports sur la migration BlueXP. 
 ---
 = Quoi de neuf
 :hardbreaks:
@@ -13,6 +13,12 @@ summary: 'Le nouveau service de rapports de migration BlueXP vous permet d"ident
 
 [role="lead"]
 Découvrez les nouveautés des rapports sur la migration BlueXP.
+
+
+
+== 13 novembre 2023
+
+Vous pouvez désormais créer des rapports pour les volumes qui utilisent le protocole SMB/CIFS.
 
 
 
